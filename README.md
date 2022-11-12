@@ -2,8 +2,8 @@
 
 
 ```mermaid
-graph LR
-  Repository -> Cloud
+flowchart LR
+  Repository --> Cloud
 ```
 
 End to End Example
